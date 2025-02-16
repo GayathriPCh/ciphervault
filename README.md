@@ -15,10 +15,6 @@ This is a **Svelte-based Password Vault** that securely stores, categorizes, and
 ## Installation & Setup ⚙️
 
 ### **1. Clone the Repository**
-```sh
-$ git clone https://github.com/your-username/password-vault-svelte.git
-$ cd password-vault-svelte
-```
 
 ### **2. Install Dependencies**
 ```sh
