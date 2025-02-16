@@ -1,7 +1,7 @@
 # Password Vault - Svelte App 🔐
 
 ## Overview
-This is a **Svelte-based Password Vault** that securely stores, categorizes, and manages user credentials. It also checks for **password breaches** and allows users to view encrypted passwords securely via AES (Advanced Encryption Standard).
+This is a **Svelte-based Password Vault** that securely stores, categorizes, and manages user credentials. It also checks for **password breaches** and allows users to view encrypted passwords securely via AES (Advanced Encryption Standard). Uses Firebase Auth for Authentication.
 ![Screenshot 2025-02-16 143101](https://github.com/user-attachments/assets/a11e71e9-815b-438e-a400-9a6dc6298696)
 
 ## Features 🌟
@@ -30,22 +30,6 @@ $ npm install
 $ npm run dev
 ```
 Then, open `http://localhost:5173/` in your browser.
-
-## File Structure 📂
-```
-/password-vault-svelte
-│── src
-│   ├── lib
-│   │   ├── password.js  # Handles password encryption/decryption, storage, and retrieval
-│   │   ├── breachCheck.js  # Checks if a password is leaked in a breach
-│   ├── routes
-│   │   ├── passwordVault.svelte  # Main component managing passwords
-│   ├── styles
-│   │   ├── passwordVault.css  # Styling for the password vault
-│── README.md  # Documentation (this file)
-│── package.json  # Project dependencies
-│── svelte.config.js  # Svelte configuration
-```
 
 ## Usage 📖
 
