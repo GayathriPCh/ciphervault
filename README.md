@@ -1,7 +1,7 @@
 # Password Vault - Svelte App 🔐
 
 ## Overview
-This is a **Svelte-based Password Vault** that securely stores, categorizes, and manages user credentials. It also checks for **password breaches** and allows users to view encrypted passwords securely via AES (Advanced Encryption Standard). Uses Firebase Auth for Authentication.
+This is a **Svelte-based Password Vault** that securely stores, categorizes, and manages user credentials. It also checks for **password breaches** and allows users to view encrypted passwords securely via **AES** (Advanced Encryption Standard). Uses **Firebase Auth** for Authentication.
 ![Screenshot 2025-02-16 143101](https://github.com/user-attachments/assets/a11e71e9-815b-438e-a400-9a6dc6298696)
 
 ## Features 🌟
